@@ -6,7 +6,7 @@
 }
 body{
     var(--cor-de-fundo);
-    color:var(--branco-proncipal);
+    color:var (--branco-proncipal);
 }
  {
     margin: 0;
